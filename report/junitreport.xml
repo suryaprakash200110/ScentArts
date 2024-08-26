@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="165.379153">
+<testcase classname="To vaildate the scentarts application" name="To verify the about us page" time="74.972488">
+<system-out><![CDATA[Given To launch the browser and maximise the window.........................passed
+When To launch the url of scentarts application.............................passed
+And To click the About us button............................................passed
+And To scroll down into “ AREAS OF SCENTING” section........................passed
+And To click the Hotel button...............................................passed
+And To click another offices button.........................................passed
+And finally click the Airports button.......................................passed
+Then To close the chrome browser............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To vaildate the scentarts application" name="To verify the our services page" time="60.508688">
+<system-out><![CDATA[Given To launch the firefox browser and maximise the window.................passed
+When To launch url of scentarts application.................................passed
+And To click the our services button........................................passed
+And To scroll down into contect us section..................................passed
+And To click the  contect us button.........................................passed
+Then To close the firefox browser...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To vaildate the scentarts application" name="To Verify ContactUs Page Functionality" time="29.897977">
+<system-out><![CDATA[Given To launch the chrome browser and maximise the window..................passed
+When To launch scentarts application url....................................passed
+And Want To click the  contect us button....................................passed
+And Scroll down to form filling section.....................................passed
+And To pass the name in full name text box..................................passed
+And To pass the company name company name...................................passed
+And To pass the phone number in phone number text box.......................passed
+And To pass the valid email id in email text box............................passed
+And To pass the message in message text box.................................passed
+And To click the send button................................................passed
+Then To close the Chrome browser............................................passed
+]]></system-out>
+</testcase>
+</testsuite>

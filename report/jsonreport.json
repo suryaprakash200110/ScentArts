@@ -1,0 +1,412 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "To verify the about us page",
+        "description": "",
+        "id": "to-vaildate-the-scentarts-application;to-verify-the-about-us-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 19809843200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To launch the browser and maximise the window",
+            "match": {
+              "location": "code.to_launch_the_browser_and_maximise_the_window()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 45862511400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To launch the url of scentarts application",
+            "match": {
+              "location": "code.to_launch_the_url_of_scentarts_application()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6655417400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To click the About us button",
+            "match": {
+              "location": "code.to_click_the_About_us_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 110830100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To scroll down into “ AREAS OF SCENTING” section",
+            "match": {
+              "location": "code.to_scroll_down_into_AREAS_OF_SCENTING_section()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 552610800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "To click the Hotel button",
+            "match": {
+              "location": "code.to_click_the_Hotel_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 382513000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To click another offices button",
+            "match": {
+              "location": "code.to_click_another_offices_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 473306200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "finally click the Airports button",
+            "match": {
+              "location": "code.finally_click_the_Airports_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1119948100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "To close the chrome browser",
+            "match": {
+              "location": "code.to_close_the_chrome_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "To verify the our services page",
+        "description": "",
+        "id": "to-vaildate-the-scentarts-application;to-verify-the-our-services-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 14755937700,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "To launch the firefox browser and maximise the window",
+            "match": {
+              "location": "code.to_launch_the_firefox_browser_and_maximise_the_window()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 22794575900,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "To launch url of scentarts application",
+            "match": {
+              "location": "code.to_launch_url_of_scentarts_application()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 12007680500,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "To click the our services button",
+            "match": {
+              "location": "code.to_click_the_our_services_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 93409600,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "To scroll down into contect us section",
+            "match": {
+              "location": "code.to_scroll_down_into_contect_us_section()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6394806100,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "To click the  contect us button",
+            "match": {
+              "location": "code.to_click_the_contect_us_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4461400300,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "To close the firefox browser",
+            "match": {
+              "location": "code.to_close_the_firefox_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 22,
+        "name": "To Verify ContactUs Page Functionality",
+        "description": "",
+        "id": "to-vaildate-the-scentarts-application;to-verify-contactus-page-functionality",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5926855900,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "To launch the chrome browser and maximise the window",
+            "match": {
+              "location": "code.to_launch_the_chrome_browser_and_maximise_the_window()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 15693418000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "To launch scentarts application url",
+            "match": {
+              "location": "code.to_launch_scentarts_application_url()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4257053800,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "Want To click the  contect us button",
+            "match": {
+              "location": "code.want_To_click_the_contect_us_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 113604900,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "Scroll down to form filling section",
+            "match": {
+              "location": "code.scroll_down_to_form_filling_section()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 469829100,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "To pass the name in full name text box",
+            "match": {
+              "location": "code.to_pass_the_name_in_full_name_text_box(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Suryaprakash",
+                  "Arunkumar",
+                  "Mownish",
+                  "Madhan"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 526216800,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "To pass the company name company name",
+            "match": {
+              "location": "code.to_pass_the_company_name_company_name(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Bluzinfo",
+                  "Inmakes",
+                  "Tcs"
+                ]
+              },
+              {
+                "cells": [
+                  "Wibro",
+                  "Cognizent",
+                  "Google"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 571629900,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "To pass the phone number in phone number text box",
+            "match": {
+              "location": "code.to_pass_the_phone_number_in_phone_number_text_box(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "no1",
+                  "9876543210"
+                ]
+              },
+              {
+                "cells": [
+                  "no2",
+                  "1234567890"
+                ]
+              },
+              {
+                "cells": [
+                  "no3",
+                  "6789054321"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 518948200,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "To pass the valid email id in email text box",
+            "match": {
+              "location": "code.to_pass_the_valid_email_id_in_email_text_box(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "email1",
+                  "email2",
+                  "email3"
+                ]
+              },
+              {
+                "cells": [
+                  "surya@gmail.com",
+                  "Arun@gamil.com",
+                  "madhan@gmail.com"
+                ]
+              },
+              {
+                "cells": [
+                  "Arya@gmail.com",
+                  "prasath@gmail.com",
+                  "mownish@gmail.com"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 713859000,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "To pass the message in message text box",
+            "match": {
+              "location": "code.to_pass_the_message_in_message_text_box()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 366979900,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "To click the send button",
+            "match": {
+              "location": "code.to_click_the_send_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 738463900,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "To close the Chrome browser",
+            "match": {
+              "location": "code.to_close_the_Chrome_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To vaildate the scentarts application",
+    "description": "",
+    "id": "to-vaildate-the-scentarts-application",
+    "keyword": "Feature",
+    "uri": "src/test/resources/scentarts.feature",
+    "tags": []
+  }
+]
